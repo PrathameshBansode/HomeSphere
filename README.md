@@ -68,9 +68,11 @@ HomeSphere/
 
 ## 📸 Screenshots
 
-(Add later)
+### 🖥️ Application
+![App Screenshot](assets/screenshot1.png)
 
----
+### 📡 API Testing
+![Application Screenshot](assets/screenshot2.png)
 
 ## 🚧 Future Enhancements
 
